@@ -69,7 +69,6 @@ document.getElementById('add-pin-btn').addEventListener('click', () => {
   }
 
   addOrUpdatePin(x, y);
-
   xInput.value = '';
   yInput.value = '';
 });
